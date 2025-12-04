@@ -1,0 +1,3 @@
+taki kolejny projekt for fun, który pewnie też porzucę za chwil parę...
+
+oto link do samej strony: https://maorpl.github.io/js-calculator/
