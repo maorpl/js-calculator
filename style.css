@@ -1,0 +1,67 @@
+body
+{
+    background-color: rgb(60, 60, 60);
+}
+
+#title
+{
+    text-align: center;
+    font-size: 50px;
+    font: solid;
+    text-shadow: 0px 0px 10px white;
+    transition: .3s ease-in-out;
+}
+
+#title:hover
+{
+    transition: .15s ease-in-out;
+    text-shadow: 0px 0px 15px white;
+    transform: scale(105%);
+    cursor: progress;
+}
+
+#calc
+{
+    margin: auto;
+    text-align: center;
+    transform: scale(175%);
+    height: 100px;
+    width: 300px;
+
+}
+
+.ioBox
+{
+    transform: translate(0%, 10%);
+}
+
+.input
+{
+    font-size: 57px;
+    border-radius: 30px;
+    height: 80px;
+    width: 80px;
+}
+
+.ioShit
+{
+    padding: 5px;
+    letter-spacing: 3px;
+    border-radius: 10px;
+    border-style: none;
+    height: 50px;
+    /* background-color: rgb(60,60,60); */
+}
+
+.calcFirstRow, .calcSecondRow, .calcThirdRow, .calcZeroRow
+{
+    padding: 5px;
+}
+
+footer
+{
+    position: fixed;
+    left: 10px;
+    bottom: 10px;
+}
+
